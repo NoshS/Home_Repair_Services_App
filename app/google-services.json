@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "527029095316",
+    "firebase_url": "https://home-renovation-seg2105.firebaseio.com",
+    "project_id": "home-renovation-seg2105",
+    "storage_bucket": "home-renovation-seg2105.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527029095316:android:3f70492da570894a",
+        "android_client_info": {
+          "package_name": "com.blufloapps.home_repair_services_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527029095316-un15vceu6duioae6r6go4sdgrckocic9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6EMHUg3JE2SBTCICNAGK2PXkfwXejwJs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
